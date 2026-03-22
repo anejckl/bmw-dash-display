@@ -78,3 +78,4 @@ When switching from ELM327 to CAN — only the data functions change. Display co
 - [OLED Wiring](docs/wiring_oled.md) — SSD1306 display connections (v0.1, v0.2)
 - [TFT Wiring](docs/wiring_tft.md) — ILI9488 display connections (v0.3, v0.4)
 - [CAN Bus Wiring](docs/wiring_can.md) — MCP2515 and power wiring (v1.0+)
+- [OTA Updates](docs/ota_updates.md) — HTTP OTA firmware update setup (v2.0)
